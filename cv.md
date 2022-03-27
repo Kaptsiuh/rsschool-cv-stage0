@@ -33,3 +33,5 @@ RS2022Q1 *in proccess...*
 - Courses:
    - JavaScript https://learn.javascript.ru/
    - HTML, CSS video courses on YouTube channel Glo Academy
+## English
+**A2** (I take conversation classes)
