@@ -28,3 +28,8 @@ function mango(quantity, price){
 ```
 ## Experience
 RS2022Q1 *in proccess...*
+## Education
+- Mogilev State University of Food Technologies, Process Engineer
+- Courses:
+   - JavaScript https://learn.javascript.ru/
+   - HTML, CSS video courses on YouTube channel Glo Academy
