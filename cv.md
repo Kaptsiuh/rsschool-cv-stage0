@@ -12,3 +12,17 @@ I have been doing front-end development for the last three months. I really enjo
 - BEM methodology
 - JavaScript Basic
 - Git/GitHub
+## Code example
+```javascript
+function mango(quantity, price){
+    let cost = 0;
+    let mult = 0;
+
+    for (i = 1; i <= quantity; i++) {
+        if (i % 3 === 0) continue;
+        mult = 1 * price;
+        cost = cost + mult ;
+    }
+    return cost;
+}
+```
