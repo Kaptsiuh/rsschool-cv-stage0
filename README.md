@@ -1,4 +1,4 @@
 # rsschool-cv
-https://Dmiriy-Koptyh.github.io/rsschool-cv/cv
+https://Kaptsiuh.github.io/rsschool-cv/cv
 
-https://dmiriy-koptyh.github.io/rsschool-cv/
+https://Kaptsiuh.github.io/rsschool-cv/
